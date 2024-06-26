@@ -7,6 +7,7 @@
 - Badges :</br>
 <img src="img/spring-certified-professional-2024-v2.png" alt="Spring badge" width="30%"><img src="img/az900.png" alt="Azure AI badge" width="30%"><img src="img/PSM1.png" alt="scrum" width="30%">
 <img src="img/GoogleLearningPath.png" alt="Google Learning Path" width="60%">
+
 - 🎓 Certifications badges : [https://www.credly.com/users/virginie-fengarol/badges](https://www.credly.com/users/virginie-fengarol/badges)
 - 🎓 Google SkillBoost Profile : https://www.cloudskillsboost.google/public_profiles/dc7ec472-694c-4036-bf6f-9c965871a5d1
 
